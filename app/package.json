@@ -38,7 +38,7 @@
     "i18next": "^19.9.0",
     "i18next-sync-fs-backend": "^1.1.1",
     "install-peers": "^1.0.3",
-    "jquery": "^3.5.1",
+    "jquery": "^3.6.0",
     "node-fetch": "^2.6.1",
     "node-vagrant": "^1.5.0",
     "open": "^7.4.2",
